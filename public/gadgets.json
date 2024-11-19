@@ -1,0 +1,242 @@
+[
+  {
+    "id": 1,
+    "category": "Laptops",
+    "name": "Dell XPS 13",
+    "price": 999.99,
+    "inStock": true,
+    "description": "Ultra-slim, high-performance laptop with 13.4-inch Infinity Edge display.",
+    "image": "https://i.ibb.co/vqdkdr9/XPS13-dell.png",
+    "specifications": {
+      "processor": "Intel i7 11th Gen",
+      "ram": "16GB",
+      "storage": "512GB SSD",
+      "display": "Touchscreen"
+    },
+    "rating": 4.5
+  },
+  {
+    "id": 2,
+    "category": "Laptops",
+    "name": "HP Spectre x360",
+    "price": 1099.99,
+    "inStock": true,
+    "description": "Convertible laptop with touch support and vibrant display.",
+    "image": "https://i.ibb.co/jHZZr8J/hp-spectre-x360.png",
+    "specifications": {
+      "processor": "Intel i5 10th Gen",
+      "ram": "8GB",
+      "storage": "256GB SSD",
+      "display": "Touchscreen"
+    },
+    "rating": 4.6
+  },
+  {
+    "id": 3,
+    "category": "Laptops",
+    "name": "Asus ZenBook 14",
+    "price": 799.99,
+    "inStock": true,
+    "description": "Compact and powerful laptop with long battery life.",
+    "image": "https://i.ibb.co/xj2GYvP/asus-zenbook-14.png",
+    "specifications": {
+      "processor": "AMD Ryzen 7",
+      "ram": "8GB",
+      "storage": "512GB SSD",
+      "display": "14-inch Display"
+    },
+    "rating": 4.4
+  },
+  {
+    "id": 4,
+    "category": "Laptops",
+    "name": "Acer Swift 3",
+    "price": 649.99,
+    "inStock": true,
+    "description": "Affordable and lightweight laptop with fast performance.",
+    "image": "https://i.ibb.co/8cnKd08/acer-swift-3.png",
+    "specifications": {
+      "processor": "Intel i5 11th Gen",
+      "ram": "8GB",
+      "storage": "512GB SSD",
+      "display": "14-inch Display"
+    },
+    "rating": 4.2
+  },
+  {
+    "id": 5,
+    "category": "Laptops",
+    "name": "Lenovo ThinkPad X1 Carbon",
+    "price": 1399.99,
+    "inStock": true,
+    "description": "Business laptop with durability and performance.",
+    "image": "https://i.ibb.co/3fZZw8n/lenovo-thinkpad.png",
+    "specifications": {
+      "processor": "Intel i7 10th Gen",
+      "ram": "16GB",
+      "storage": "1TB SSD",
+      "display": "14-inch Display"
+    },
+    "rating": 4.8
+  },
+  {
+    "id": 6,
+    "category": "Laptops",
+    "name": "Microsoft Surface Laptop 4",
+    "price": 1199.99,
+    "inStock": true,
+    "description": "Sleek design with high-performance and long battery life.",
+    "image": "https://i.ibb.co/thXLj7g/microsoft-surface.png",
+    "specifications": {
+      "processor": "Intel i7 11th Gen",
+      "ram": "16GB",
+      "storage": "512GB SSD",
+      "display": "13.5-inch PixelSense Display"
+    },
+    "rating": 4.7
+  },
+  {
+    "id": 7,
+    "category": "Phones",
+    "name": "Samsung Galaxy S21",
+    "price": 799.99,
+    "inStock": true,
+    "description": "High-performance Samsung phone with excellent camera.",
+    "image": "https://i.ibb.co/kghWW53/sumsung-galaxy-s21.png",
+    "specifications": {
+      "processor": "Exynos 2100",
+      "storage": "128GB",
+      "display": "6.2-inch Display",
+      "network": "5G Support"
+    },
+    "rating": 4.6
+  },
+  {
+    "id": 8,
+    "category": "Phones",
+    "name": "OnePlus 9 Pro",
+    "price": 899.99,
+    "inStock": true,
+    "description": "Premium phone with smooth performance and fast charging.",
+    "image": "https://i.ibb.co/XY92tgh/oneplus-9-pro.png",
+    "specifications": {
+      "processor": "Snapdragon 888",
+      "storage": "256GB",
+      "display": "6.7-inch Display",
+      "network": "5G Support"
+    },
+    "rating": 4.5
+  },
+  {
+    "id": 9,
+    "category": "iPhones",
+    "name": "iPhone 13 Pro",
+    "price": 999.99,
+    "inStock": true,
+    "description": "The latest iPhone with A15 Bionic chip and improved camera.",
+    "image": "https://i.ibb.co/23jCnVV/i-Phone-13-pro.png",
+    "specifications": {
+      "processor": "A15 Bionic",
+      "storage": "128GB",
+      "display": "6.1-inch Display",
+      "network": "5G Support"
+    },
+    "rating": 4.8
+  },
+  {
+    "id": 10,
+    "category": "iPhones",
+    "name": "iPhone 12",
+    "price": 699.99,
+    "inStock": true,
+    "description": "Previous generation iPhone with A14 Bionic chip.",
+    "image": "https://i.ibb.co/fpnCc6S/iPhone12.png",
+    "specifications": {
+      "processor": "A14 Bionic",
+      "storage": "64GB",
+      "display": "6.1-inch Display",
+      "network": "5G Support"
+    },
+    "rating": 4.6
+  },
+  {
+    "id": 11,
+    "category": "Accessories",
+    "name": "Logitech MX Master 3",
+    "price": 99.99,
+    "inStock": true,
+    "description": "Ergonomic and precise mouse for professionals.",
+    "image": "https://i.ibb.co/m4HZHfB/logitech-mx.png",
+    "specifications": {
+      "type": "Wireless",
+      "charging": "USB-C Charging",
+      "dpi": "4000 DPI",
+      "features": "Multi-device Support"
+    },
+    "rating": 4.7
+  },
+  {
+    "id": 12,
+    "category": "Accessories",
+    "name": "Anker PowerCore 10000",
+    "price": 24.99,
+    "inStock": true,
+    "description": "Compact and portable power bank with high capacity.",
+    "image": "https://i.ibb.co/WWmCg5R/anker-powercore.png",
+    "specifications": {
+      "capacity": "10000mAh",
+      "charging": "Fast Charging",
+      "weight": "Lightweight",
+      "output": "USB-A Output"
+    },
+    "rating": 4.5
+  },
+  {
+    "id": 13,
+    "category": "MacBook",
+    "name": "MacBook Air",
+    "price": 999.99,
+    "inStock": true,
+    "description": "Lightweight and powerful with the M1 chip.",
+    "image": "https://i.ibb.co/CBVV1jG/macbook-pro16.png",
+    "specifications": {
+      "processor": "Apple M1 Chip",
+      "ram": "8GB",
+      "storage": "256GB SSD",
+      "display": "Retina Display"
+    },
+    "rating": 4.7
+  },
+  {
+    "id": 14,
+    "category": "MacBook",
+    "name": "MacBook Pro 13-inch",
+    "price": 1299.99,
+    "inStock": true,
+    "description": "Powerful laptop with M1 Pro chip for professional use.",
+    "image": "https://i.ibb.co/LP8v9dH/macbook-pro.png",
+    "specifications": {
+      "processor": "Apple M1 Pro",
+      "ram": "16GB",
+      "storage": "512GB SSD",
+      "display": "13-inch Retina Display"
+    },
+    "rating": 4.9
+  },
+  {
+    "id": 15,
+    "category": "MacBook",
+    "name": "MacBook Pro 16-inch",
+    "price": 2399.99,
+    "inStock": true,
+    "description": "High-end MacBook Pro with M1 Max chip for power users.",
+    "image": "https://i.ibb.co/CBVV1jG/macbook-pro16.png",
+    "specifications": {
+      "processor": "Apple M1 Max",
+      "ram": "32GB",
+      "storage": "1TB SSD",
+      "display": "16-inch Liquid Retina XDR Display"
+    },
+    "rating": 5.0
+  }
+]

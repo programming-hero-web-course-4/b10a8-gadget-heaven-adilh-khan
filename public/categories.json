@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "category": "Laptops",
+    "slug": "laptops"
+  },
+  {
+    "id": 2,
+    "category": "Phones",
+    "slug": "phones"
+  },
+  {
+    "id": 3,
+    "category": "iPhones",
+    "slug": "iphones"
+  },
+  {
+    "id": 4,
+    "category": "Accessories",
+    "slug": "accessories"
+  },
+  {
+    "id": 5,
+    "category": "MacBook",
+    "slug": "macbook"
+  },
+  {
+    "id": 6,
+    "category": "Smart Watches",
+    "slug": "smart-watches"
+  }
+]
