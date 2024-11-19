@@ -44,7 +44,7 @@ const GadgetDetails = () => {
 
   return (
     <>
-      <div className="relative">
+      <div className="relative mb-96">
         <SectionHeader
           title={"Product Details"}
           description={
